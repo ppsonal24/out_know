@@ -45,8 +45,8 @@ nagging = বিরক্তিকর
 arbitrary = স্বেচ্ছাচারী
 Stare = তাকাও
 paved = বাঁধানো
-
-
+sensation = অনুভূতি 
+meticulous = সাবধানী 
 
 
 
